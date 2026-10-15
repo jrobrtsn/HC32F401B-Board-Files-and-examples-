@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>3972963949</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_iwdg.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_rcc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_rtc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_spi.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_syscfg.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_adc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dbgmcu.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_tim.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_crc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dac.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\CMSIS\Include\core_cm4.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\CMSIS\Device\Holychip\HC32F401\Source\iar\startup_hc32f401xxx.s</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_exti.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_fda.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_i2c.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_flash.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\CMSIS\Device\Holychip\HC32F401\Source\system_hc32f4xx.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_i2s.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_mou.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_pwr.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_canfd.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dma.c</file>
+            <file>$PROJ_DIR$\RTE\RTE_Components.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_i2c.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_syscfg.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_it.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_pwr.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_vc.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_flash.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_fda.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_i2s.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_hc32f4xx.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_rcc.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_iwdg.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_hc32f4xx.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_tim.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_i2c.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_crc.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_wwdg.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_spi.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_spi.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_rtc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_vc.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\misc.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_dbgmcu.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_syscfg.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_hc32f4xx.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_i2c.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_rtc.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_canfd.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_fda.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_iwdg.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_hc32f401xxx.o</file>
+            <file>$PROJ_DIR$\Debug\Exe\TEST.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_tim10.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_exti.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_exti.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_wwdg.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_mou.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_canfd.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_flash.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_vc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_pwr.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_gpio.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_i2s.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_rcc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_tim.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_crc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_dma.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\misc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_rtc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_usart.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_pwr.pbi</file>
+            <file>C:\Users\HC\AppData\Local\IAR Embedded Workbench\PackRepo\Holychip\HC32F4XX\1.0.7\.iar\config\linker\HC32F401BRCX.icf</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_it.__cstat.et</file>
+            <file>$PROJ_DIR$\..\hc32f4xx_it.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_rtc.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_adc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_adc.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_dac.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_tim.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\misc.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\misc.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_tim.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_crc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_dbgmcu.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_rcc.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_iwdg.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_tim10.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_wwdg.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_adc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_exti.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_dma.o</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_i2s.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_spi.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_gpio.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_i2s.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_i2c.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dbgmcu.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_adc.c</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_gpio.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_exti.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_syscfg.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_gpio.c</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Debug\List\TEST.map</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_adc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_canfd.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_spi.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_iwdg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_flash.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_pwr.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_mou.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_dac.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_i2s.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_crc.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_fda.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dma.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dac.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_fda.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\CMSIS\Device\Holychip\HC32F401\Source\system_hc32f4xx.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_flash.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\CMSIS\Device\Holychip\HC32F401\Source\iar\startup_hc32f401xxx.s</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_crc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_vc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_usart.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_it.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_wwdg.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_usart.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_tim10.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_canfd.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_rcc.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_usart.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\..\main.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_mou.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_spi.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_canfd.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_fda.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_dma.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_vc.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\TEST.pbd</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_flash.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_tim10.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\CMSIS\Include\core_cmSimd.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_pwr.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_exti.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_dac.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\CMSIS\Device\Holychip\HC32F401\Include\hc32f4xx.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_mou.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_dma.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_i2c.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_tim10.c</file>
+            <file>$PROJ_DIR$\..\main.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_usart.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_wwdg.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_iwdg.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\misc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_usart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_vc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_rcc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\CMSIS\Device\Holychip\HC32F401\Include\system_hc32f4xx.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_rtc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_gpio.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_dbgmcu.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_dac.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_tim.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_wwdg.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_mou.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_syscfg.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_dbgmcu.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_conf.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\inc\hc32f4xx_tim10.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\misc.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hc32f4xx_syscfg.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\..\hc32f4xx_it.c</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 58 114</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_iwdg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 120</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 56</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 173 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 143 27 150 103 168 166 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 179 183 165 139 157 37 27 163 135 166 191 115 142 148 180 158 117 89 103 138 10 175 160 108 161 40 39 178 181 188 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_rcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 144</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 34</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 178 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 180 181 163 188 158 152 37 193 117 164 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 175 40 39 152 10 145 108 143 165 181 164 168 115 160 161 178 188 193 167 150 173 174 179 191 139 142 157 148 180 163 158 37 117 135 89 27 103 166 138 183</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_rtc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 81</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 180 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 181 163 188 158 152 37 193 117 164 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 40 115 174 160 193 178 150 165 161 188 167 173 10 175 108 39 181 152 164 143 168 145 179 191 139 142 157 148 180 163 158 37 117 135 89 27 103 166 138 183</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 119</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 44</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 150 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 143 27 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 179 139 157 37 183 163 135 166 165 191 115 142 148 180 158 117 89 103 138 178 10 175 160 108 161 40 39 181 188 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_syscfg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 195</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 50</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 188 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 158 152 37 193 117 164 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 142 165 89 115 158 138 191 148 180 117 103 179 139 157 163 37 135 27 166 183 178 10 175 160 108 161 40 39 181 188 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_adc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 96</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 83</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 164 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 166 163 135 165 179 139 157 37 27 183 191 115 142 148 180 158 117 89 103 138 178 10 175 160 108 161 40 39 181 188 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dbgmcu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 90</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 189</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 183 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 143 27 150 103 168 166 173 138 145 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 165 27 179 139 157 37 183 163 135 166 191 115 142 148 180 158 117 89 103 138 10 175 160 108 161 40 39 178 181 188 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_tim.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 185</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 85</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 37 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 193 117 164 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 175 157 10 37 165 183 27 115 160 163 135 166 178 179 191 139 142 148 180 158 117 89 103 138 108 161 40 39 181 188 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_crc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 126</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 41</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 89 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 163 166 135 165 179 139 157 37 27 183 191 115 142 148 180 158 117 89 103 138 10 175 160 108 161 40 39 178 181 188 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dac.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 124</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 84</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 184</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 164 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 165 89 142 115 158 138 191 148 180 117 103 188 179 139 157 163 37 135 27 166 183 178 10 175 160 108 161 40 39 181 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\CMSIS\Device\Holychip\HC32F401\Source\iar\startup_hc32f401xxx.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_exti.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 97</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 60</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 163 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 188 158 152 37 193 117 164 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 108 143 10 175 40 39 152 145 165 181 164 168 115 160 161 178 188 193 167 150 173 174 179 191 139 142 157 148 180 163 158 37 117 135 89 27 103 166 138 183</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_fda.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 55</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 130</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 152 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 37 193 117 164 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 193 160 115 40 174 165 178 150 161 188 167 173 10 175 108 39 181 152 164 143 168 145 179 191 139 142 157 148 180 163 158 37 117 135 89 27 103 166 138 183</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 168 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 143 27 150 103 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39 40 152 175 165 10 145 108 143 181 164 168 115 160 161 178 188 193 167 150 173 174 179 191 139 142 157 148 180 163 158 37 117 135 89 27 103 166 138 183</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 121</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 158 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 152 37 193 117 164 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 181 108 168 165 164 10 175 40 39 152 143 145 115 160 161 178 188 193 167 150 173 174 179 191 139 142 157 148 180 163 158 37 117 135 89 27 103 166 138 183</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 102</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 68</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 109</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 181 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 163 188 158 152 37 193 117 164 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 191 103 180 148 117 115 142 158 89 138 165 179 139 157 163 37 135 27 166 183 178 10 175 160 108 161 40 39 181 188 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\CMSIS\Device\Holychip\HC32F401\Source\system_hc32f4xx.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 51</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 148 117 165 191 180 103 115 142 158 89 138 179 139 157 163 37 135 27 166 183 10 175 160 108 161 40 39 178 181 188 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_i2s.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 100</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 143 27 150 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 168 108 181 165 164 10 175 40 39 152 143 145 115 160 161 178 188 193 167 150 173 174 179 191 139 142 157 148 180 163 158 37 117 135 89 27 103 166 138 183</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_mou.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 123</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 63</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 187</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 166 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 143 27 150 103 168 173 138 145 183 174 153 182 146 92 192 196</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 179 145 165 139 40 39 152 143 196 108 181 164 168 153 191 115 142 161 178 188 193 167 150 173 174 182 92 10 175 160 157 148 180 163 158 37 117 135 89 27 103 166 138 183 146 192</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_pwr.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 122</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 67</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 143 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 160 193 115 40 174 178 150 165 161 188 167 173 10 175 108 39 181 152 164 143 168 145 179 191 139 142 157 148 180 163 158 37 117 135 89 27 103 166 138 183</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_canfd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 118</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 54</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 151</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 27 150 103 168 166 173 138 145 183 174 153 182 146 92 192 196</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 173 191 40 188 196 115 142 161 167 165 153 179 139 39 108 178 193 150 174 92 10 175 160 157 148 181 152 164 143 168 145 182 180 163 158 37 117 135 89 27 103 166 138 183 146 192</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 98</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 73</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 154</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 167 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 142 89 165 115 158 138 191 148 180 117 103 179 139 157 163 37 135 27 166 183 178 10 175 160 108 161 40 39 181 188 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_wwdg.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 62</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\misc.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 86</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 87</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_rtc.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 81</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\TEST.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 114</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 78 96 118 126 124 90 98 97 30 121 102 52 100 26 120 123 122 144 45 119 195 185 141 171 66 172 190 74 57 36 113 107 116 99</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_canfd.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 54</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 151</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_tim.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 85</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_rcc.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 34</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_iwdg.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 56</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 44</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dbgmcu.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 189</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_adc.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 83</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_exti.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 60</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_syscfg.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 50</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 68</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 109</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_i2s.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_fda.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 55</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 130</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 73</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 154</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dac.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 84</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 184</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\CMSIS\Device\Holychip\HC32F401\Source\system_hc32f4xx.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 51</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\CMSIS\Device\Holychip\HC32F401\Source\iar\startup_hc32f401xxx.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_crc.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 41</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 76</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 136</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_mou.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 63</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 187</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_vc.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 28</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_tim10.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 59</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 94</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_pwr.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 67</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_tim10.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 141</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 59</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 94</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 193 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 117 164 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 179 183 165 139 157 37 27 163 135 166 191 115 142 148 180 158 117 89 103 138 178 10 175 160 108 161 40 39 181 188 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 190</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 48</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 32</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 147 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 191 103 180 148 117 165 115 142 158 89 138 179 139 157 163 37 135 27 166 183 10 175 160 108 161 40 39 178 181 188 152 193 164 167 143 150 168 173 145 174 147</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 171</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 76</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 136</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 145 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 143 27 150 103 168 166 173 138 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 179 139 157 37 183 165 163 135 166 191 115 142 148 180 158 117 89 103 138 178 10 175 160 108 161 40 39 181 188 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_vc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 66</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 28</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 135 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 174 115 40 160 193 178 150 165 161 188 167 173 10 175 108 39 181 152 164 143 168 145 179 191 139 142 157 148 180 163 158 37 117 135 89 27 103 166 138 183</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_wwdg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 172</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 62</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 138 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 143 27 150 103 168 166 173 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 143 108 10 175 40 39 152 145 165 181 164 168 115 160 161 178 188 193 167 150 173 174 179 191 139 142 157 148 180 163 158 37 117 135 89 27 103 166 138 183</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\misc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 74</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 86</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 87</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 174 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 143 27 150 103 168 166 173 138 145 183</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 165 89 142 115 158 138 191 148 180 117 103 179 139 157 163 37 135 27 166 183 10 175 160 108 161 40 39 178 181 188 152 193 164 167 143 150 168 173 145 174</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\hc32f4xx_it.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 79</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 137</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 80 147 165 10 115 142 108 161 157 148 175 40 39 139 160 179 191 178 180 181 163 188 158 152 37 193 117 164 135 167 89 143 27 150 103 168 166 173 138 145 183 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 135 165 163 166 179 139 157 37 27 183 147 191 115 142 148 180 158 117 89 103 138 10 175 160 108 161 40 39 178 181 188 152 193 164 167 143 150 168 173 145 174 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_wwdg.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\misc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_rtc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_canfd.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_flash.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_tim.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_rcc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_iwdg.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_spi.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_i2c.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dbgmcu.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_adc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_exti.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_syscfg.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_gpio.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_i2s.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_fda.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dma.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_dac.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\CMSIS\Device\Holychip\HC32F401\Source\system_hc32f4xx.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_crc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_usart.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_mou.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_vc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_tim10.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\..\..\Libraries\HC32F4xx_Peripherals_Driver\src\hc32f4xx_pwr.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>

@@ -1,0 +1,36 @@
+/**
+  ******************************************************************************
+  *
+  ******************************************************************************
+  */
+
+/* Define to prevent recursive inclusion -------------------------------------*/
+#ifndef __HC32F4xx_CRC_H
+#define __HC32F4xx_CRC_H
+
+#ifdef __cplusplus
+ extern "C" {
+#endif
+
+/* Includes ------------------------------------------------------------------*/
+#include "hc32f4xx.h"
+
+
+/* Exported macro ------------------------------------------------------------*/
+/* Exported functions --------------------------------------------------------*/  
+
+void CRC_ResetDR(void);
+uint32_t CRC_CalcCRC(uint32_t Data);
+uint32_t CRC_CalcBlockCRC(uint32_t pBuffer[], uint32_t BufferLength);
+uint32_t CRC_GetCRC(void);
+void CRC_SetIDRegister(uint8_t IDValue);
+uint8_t CRC_GetIDRegister(void);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif 
+
+
+/*****END OF FILE****/
